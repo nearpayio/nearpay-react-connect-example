@@ -48,7 +48,7 @@ export default function NearpayProvider({
 }) {
   // saves the nearpay connection state, managed by the nearpay connectivity listener
   const [connectionState, setConnectionState] = useState<CONNECTION_STATE>(
-    CONNECTION_STATE.LOGEDOUT
+    CONNECTION_STATE.LOGGED_OUT
   );
   const [err, setErr] = useState<string | undefined>(undefined);
 
