@@ -1,4 +1,4 @@
-# Nearpay Web SDK Example
+# Nearpay Web SDK React Example
 
 this is a small demonstration of Nearpay web SDK usage written using react framework
 
